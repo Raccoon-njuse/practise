@@ -32,7 +32,7 @@ public class Case {
 
     // TODO: 补全 toString 方法（用于打印案件信息）
 
-    @Override
+    //@Override
     public String toString() {
         return "案件信息：{" +
                 "id=" + id +
